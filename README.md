@@ -1,7 +1,5 @@
 # flask-student-crud-mysql
 
-[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/flask-student-crud-mysql.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/flask-student-crud-mysql)
-
 ```
 CREATE USER test@localhost IDENTIFIED BY 'test';
 GRANT ALL PRIVILEGES ON test.* TO test@localhost;
